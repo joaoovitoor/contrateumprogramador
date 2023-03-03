@@ -3,118 +3,113 @@ export default function Main() {
     <section class="text-gray-600 body-font">
       <div class="max-w-5xl pt-52 pb-24 mx-auto">
         <h1 class="text-80 text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
-          Create your next website fast and easy
+          Contratação de Desenvolvedore para Empresas de Médio Porte
         </h1>
         <h2 class="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
-          nine4 is a free to use template website for websites made
-          <br />
-          with Next.js and styled with Tailwind CSS
+          Soluções Personalizadas de Desenvolvimento de Software para sua
+          <span class="text-white"> empresa</span>
         </h2>
         <div className="ml-6 text-center">
           <a
-            className="inline-flex items-center py-3 font-semibold text-black transition duration-500 ease-in-out transform bg-transparent bg-white px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
-            href="/"
+            className="inline-flex items-center py-3 font-semibold text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-11 bg-gradient-to-r from-blue-500 to-blue-400 px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
+            href="mailto:contrateumprogramador.com"
+            target="_blank"
           >
             <div className="flex text-lg">
-              <span className="justify-center">View All Templates</span>
+              <span className="justify-center">Contato por E-mail</span>
             </div>
           </a>
+
           <a
-            className="inline-flex items-center py-3 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent ml-11 bg-gradient-to-r from-blue-500 to-blue-800 px-14 text-md md:mt-0 focus:shadow-outline"
-            href="/"
+            className="inline-flex items-center py-3 font-semibold text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-11 bg-gradient-to-r from-green-500 to-green-400 px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
+            href="https://wa.me/5511980668176"
+            target="_blank"
           >
             <div className="flex text-lg">
-              <span className="justify-center">Purchase</span>
+              <span className="justify-center">Contato por WhatsApp</span>
             </div>
           </a>
         </div>
       </div>
       <div className="container flex flex-col items-center justify-center mx-auto">
         <img
-          className="object-cover object-center w-3/4 mb-10 border shadow-md g327"
+          className="object-center w-3/4 mb-10 shadow-md g327 max-w-xs"
           alt="Placeholder Image"
-          src="./images/placeholder.png"
+          src="./images/logo_empe.png"
         ></img>
       </div>
-      <h2 className="pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-gray-200 lg:text-7xl md:text-6xl">
-        Clean and tidy code.
-      </h2>
-      <br></br>
-      <p className="mx-auto text-xl text-center text-gray-300 font-normal leading-relaxed fs521 lg:w-2/3">
-        Here is our collection of free to use templates made with Next.js &
-        styled with Tailwind CSS.
-      </p>
-      <div className="pt-12 pb-24 max-w-4xl mx-auto fsac4 md:px-1 px-3">
-        <div class="ktq4">
-          <img className="w-10" src="https://nine4.app/favicon.png"></img>
-          <h3 class="pt-3 font-semibold text-lg text-white">
-            Lorem ipsum dolor sit amet
-          </h3>
-          <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-            tincidunt a libero in finibus. Maecenas a nisl vitae ante rutrum
-            porttitor.
-          </p>
-        </div>
-        <div class="ktq4">
-          <img className="w-10" src="https://nine4.app/favicon.png"></img>
-          <h3 class="pt-3 font-semibold text-lg text-white">
-            Lorem ipsum dolor sit amet
-          </h3>
-          <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-            tincidunt a libero in finibus. Maecenas a nisl vitae ante rutrum
-            porttitor.
-          </p>
-        </div>
-        <div class="ktq4">
-          <img className="w-10" src="https://nine4.app/favicon.png"></img>
-          <h3 class="pt-3 font-semibold text-lg text-white">
-            Lorem ipsum dolor sit amet
-          </h3>
-          <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-            tincidunt a libero in finibus. Maecenas a nisl vitae ante rutrum
-            porttitor.
-          </p>
-        </div>
-        <div class="ktq4">
-          <img className="w-10" src="https://nine4.app/favicon.png"></img>
-          <h3 class="pt-3 font-semibold text-lg text-white">
-            Lorem ipsum dolor sit amet
-          </h3>
-          <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-            tincidunt a libero in finibus. Maecenas a nisl vitae ante rutrum
-            porttitor.
-          </p>
-        </div>
+      <div className="container flex flex-col items-center justify-center mx-auto">
+        <h2 className="pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-gray-200 lg:text-7xl md:text-6xl">
+          Soluções personalizadas
+        </h2>
+        <br></br>
+        <p className="mx-auto text-xl text-justify text-gray-300 font-normal leading-relaxed fs521 lg:w-2/3">
+          Se você é um empresário ou gestor de uma empresa de médio porte, sabe
+          o quão importante é ter um software eficiente para as suas operações
+          diárias.
+          <br />
+          <br />
+          Desenvolver ou alterar sistemas web pode ser uma tarefa complicada,
+          principalmente se você não tem um programador interno ou precisa de
+          mão de obra especializada.
+          <br />
+          <br />
+          É aí que entra a nossa equipe de desenvolvedores altamente
+          qualificados. Nós oferecemos soluções personalizadas de
+          desenvolvimento de software para ajudar a sua empresa a atingir seus
+          objetivos de negócios.
+          <br />
+          <br />
+          Com anos de experiência na indústria, nossa equipe é especializada em
+          uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, PHP,
+          Python e muito mais.
+          <br />
+          <br />
+          Nós trabalhamos em estreita colaboração com nossos clientes para
+          entender suas necessidades e criar soluções personalizadas que atendam
+          às suas demandas únicas. Além disso, nossa equipe está sempre
+          atualizada com as mais recentes tendências e tecnologias em
+          desenvolvimento de software, para que possamos oferecer as soluções
+          mais inovadoras para nossos clientes.
+          <br />
+          <br />
+          Não importa se você precisa de um site simples ou de um sistema de
+          gerenciamento de projetos complexo, nossa equipe pode ajudá-lo a
+          alcançar seus objetivos. Trabalhamos com empresas de médio porte em
+          todo o país, e estamos comprometidos em fornecer soluções de qualidade
+          com preços justos.
+          <br />
+          <br />
+          Então, se você está procurando por desenvolvedores experientes e
+          confiáveis para ajudá-lo a alcançar seus objetivos de negócios, entre
+          em contato conosco hoje mesmo. Estamos ansiosos para ajudar sua
+          empresa a crescer e prosperar.
+        </p>
       </div>
       <div className="pt-32 pb-32 max-w-6xl mx-auto fsac4 md:px-1 px-3">
         <div class="ktq4">
-          <img src="https://nine4.app/images/nine4-3.png"></img>
           <h3 class="pt-3 font-semibold text-lg text-white">
-            Lorem ipsum dolor sit amet
+            Analise do Problema
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            Fusce pharetra ligula mauris, quis faucibus lectus elementum vel.
-            Nullam vehicula, libero at euismod tristique, neque ligula faucibus
-            urna, quis ultricies massa enim in nunc. Vivamus ultricies, quam ut
-            rutrum blandit, turpis massa ornare velit, in sodales tellus ex nec
-            odio.
+            Conversamos com você e entendemos o que deseja, o primeiro passo é
+            entender o que você possui atualmente e o que precisa ser mudado,
+            através desta analise podemos oferecer a proposta para uma solução
+            personalizada. Além da proposta para criação do software, também
+            temos um plano que engloba um suporte mensal e melhoria continua da
+            ferramenta
           </p>
         </div>
         <div class="ktq4">
-          <img src="https://nine4.app/images/nine4-3.png"></img>
           <h3 class="pt-3 font-semibold text-lg text-white">
-            Lorem ipsum dolor sit amet
+            Desenvolvimento da Solução
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            Fusce pharetra ligula mauris, quis faucibus lectus elementum vel.
-            Nullam vehicula, libero at euismod tristique, neque ligula faucibus
-            urna, quis ultricies massa enim in nunc. Vivamus ultricies, quam ut
-            rutrum blandit, turpis massa ornare velit, in sodales tellus ex nec
-            odio.
+            A solução é feita sob. medida e dentro do prazo determinado
+            anteriormente, após a conclusão do projeto oferecemos um contrato de
+            suporte e melhoria continuada, no qual continuamos com uma relação e
+            compromisso mensal em desenvolver novas melhorias e implantar
+            melhorias no projeto desenvolvido.
           </p>
         </div>
       </div>
@@ -122,23 +117,19 @@ export default function Main() {
         <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div class="py-24 md:py-36">
             <h1 class="mb-5 text-6xl font-bold text-white">
-              Subscribe to our newsletter
+              Entre em Contato pelo WhatsApp
             </h1>
             <h1 class="mb-9 text-2xl font-semibold text-gray-200">
-              Enter your email address and get our newsletters straight away.
+              Basta clicar no link abaixo e será direcionado para falar comigo
+              sobre o seu software
             </h1>
-            <input
-              type="email"
-              placeholder="jack@example.com"
-              name="email"
-              autocomplete="email"
-              class="border border-gray-600 w-1/4 pr-2 pl-2 py-3 mt-2 rounded-md text-gray-800 font-semibold hover:border-gray-700 bg-black"
-            />{" "}
+
             <a
               class="inline-flex items-center px-14 py-3 mt-2 ml-2 font-medium text-black transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-white"
-              href="/"
+              href="https://wa.me/5511980668176"
+              target="_blank"
             >
-              <span class="justify-center">Subscribe</span>
+              <span class="justify-center">Entrar em Contato</span>
             </a>
           </div>
         </div>

@@ -8,16 +8,16 @@ export default function Home() {
   return (
     <div className="text-black bg-black">
       <NextSeo
-        title="Home: nine4"
-        description="Welcome to nine4 homepage."
-        canonical="https://nine4-3.vercel.app/"
+        title="Home: Contrate um Programador - para Empresas de Médio Porte"
+        description="Soluções Personalizadas de Desenvolvimento de Software para sua Empresa"
+        canonical="https://contrateumprogramador.vercel.app/"
         openGraph={{
-          url: "https://nine4-3.vercel.app/",
+          url: "https://contrateumprogramador.vercel.app/",
         }}
       />
       <Head>
-        <title>nine4</title>
-        <link rel="icon" href="/favicon.png" />
+        <title>Contrate um Programador</title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <Main />
