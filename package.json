@@ -1,15 +1,15 @@
 {
   "name": "contrateumprogramador",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npx browserslist@latest --update-db && next build",
+    "build": "npm install & next build",
     "start": "next start"
   },
   "dependencies": {
     "autoprefixer": "^10.2.3",
-    "browserslist": "latest",
+    "browserslist": "^4.21.5",
     "next": "10.0.5",
     "next-seo": "^4.18.0",
     "npm": "^6.14.11",
