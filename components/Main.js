@@ -2,7 +2,7 @@ export default function Main() {
   return (
     <section className="text-gray-600 body-font">
       <div className="max-w-5xl pt-52 pb-24 mx-auto">
-        <h1 className="text-80 text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
+        <h1 className="text-4xl xl:text-7xl text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
           Contratação de Desenvolvedor para Empresas de Médio Porte
         </h1>
         <h2 className="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
@@ -11,23 +11,19 @@ export default function Main() {
         </h2>
         <div className="ml-6 text-center">
           <a
-            className="inline-flex items-center py-3 font-semibold text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-11 bg-gradient-to-r from-blue-500 to-blue-400 px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
+            className="flex justify-center items-center py-3 font-semibold text-center text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-5 mr-5 bg-gradient-to-r from-blue-500 to-blue-400 px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
             href="mailto:contrateumprogramador.com"
             target="_blank"
           >
-            <div className="flex text-lg">
-              <span className="justify-center">Contato por E-mail</span>
-            </div>
+            Contato por E-mail
           </a>
 
           <a
-            className="inline-flex items-center py-3 font-semibold text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-11 bg-gradient-to-r from-green-500 to-green-400 px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
+            className="flex justify-center items-center py-3 font-semibold text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-5 mr-5 bg-gradient-to-r from-green-500 to-green-400 px-7 text-md mt-3 hover:text-black hover:bg-white focus:shadow-outline"
             href="https://wa.me/5511980668176"
             target="_blank"
           >
-            <div className="flex text-lg">
-              <span className="justify-center">Contato por WhatsApp</span>
-            </div>
+            Contato por WhatsApp
           </a>
         </div>
       </div>
@@ -43,7 +39,7 @@ export default function Main() {
           Soluções personalizadas
         </h2>
         <br></br>
-        <p className="mx-auto text-xl text-justify text-gray-300 font-normal leading-relaxed fs521 lg:w-2/3">
+        <p className="mx-auto text-xl text-justify text-gray-300 font-normal leading-relaxed fs521 w-4/5 md:w-4/5 lg:w-2/3">
           Se você é um empresário ou gestor de uma empresa de médio porte, sabe
           o quão importante é ter um software eficiente para as suas operações
           diárias.
@@ -116,10 +112,10 @@ export default function Main() {
       <section className="relative pb-24">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div className="py-24 md:py-36">
-            <h1 className="mb-5 text-6xl font-bold text-white">
+            <h1 className="mb-5 text-xl md:text-4xl lg:text-6xl font-bold text-white">
               Entre em Contato pelo WhatsApp
             </h1>
-            <h1 className="mb-9 text-2xl font-semibold text-gray-200">
+            <h1 className="mb-9 text-lg md:text-xl lg:text-2xl font-semibold text-gray-200">
               Basta clicar no link abaixo e será direcionado para falar comigo
               sobre o seu software
             </h1>
