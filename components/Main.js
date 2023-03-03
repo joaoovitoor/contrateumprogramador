@@ -1,13 +1,13 @@
 export default function Main() {
   return (
-    <section class="text-gray-600 body-font">
-      <div class="max-w-5xl pt-52 pb-24 mx-auto">
-        <h1 class="text-80 text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
+    <section className="text-gray-600 body-font">
+      <div className="max-w-5xl pt-52 pb-24 mx-auto">
+        <h1 className="text-80 text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
           Contratação de Desenvolvedore para Empresas de Médio Porte
         </h1>
-        <h2 class="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
+        <h2 className="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
           Soluções Personalizadas de Desenvolvimento de Software para sua
-          <span class="text-white"> empresa</span>
+          <span className="text-white"> empresa</span>
         </h2>
         <div className="ml-6 text-center">
           <a
@@ -87,11 +87,11 @@ export default function Main() {
         </p>
       </div>
       <div className="pt-32 pb-32 max-w-6xl mx-auto fsac4 md:px-1 px-3">
-        <div class="ktq4">
-          <h3 class="pt-3 font-semibold text-lg text-white">
+        <div className="ktq4">
+          <h3 className="pt-3 font-semibold text-lg text-white">
             Analise do Problema
           </h3>
-          <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+          <p className="pt-2 value-text text-md text-gray-200 fkrr1">
             Conversamos com você e entendemos o que deseja, o primeiro passo é
             entender o que você possui atualmente e o que precisa ser mudado,
             através desta analise podemos oferecer a proposta para uma solução
@@ -100,11 +100,11 @@ export default function Main() {
             ferramenta
           </p>
         </div>
-        <div class="ktq4">
-          <h3 class="pt-3 font-semibold text-lg text-white">
+        <div className="ktq4">
+          <h3 className="pt-3 font-semibold text-lg text-white">
             Desenvolvimento da Solução
           </h3>
-          <p class="pt-2 value-text text-md text-gray-200 fkrr1">
+          <p className="pt-2 value-text text-md text-gray-200 fkrr1">
             A solução é feita sob. medida e dentro do prazo determinado
             anteriormente, após a conclusão do projeto oferecemos um contrato de
             suporte e melhoria continuada, no qual continuamos com uma relação e
@@ -113,23 +113,23 @@ export default function Main() {
           </p>
         </div>
       </div>
-      <section class="relative pb-24">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
-          <div class="py-24 md:py-36">
-            <h1 class="mb-5 text-6xl font-bold text-white">
+      <section className="relative pb-24">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
+          <div className="py-24 md:py-36">
+            <h1 className="mb-5 text-6xl font-bold text-white">
               Entre em Contato pelo WhatsApp
             </h1>
-            <h1 class="mb-9 text-2xl font-semibold text-gray-200">
+            <h1 className="mb-9 text-2xl font-semibold text-gray-200">
               Basta clicar no link abaixo e será direcionado para falar comigo
               sobre o seu software
             </h1>
 
             <a
-              class="inline-flex items-center px-14 py-3 mt-2 ml-2 font-medium text-black transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-white"
+              className="inline-flex items-center px-14 py-3 mt-2 ml-2 font-medium text-black transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-white"
               href="https://wa.me/5511980668176"
               target="_blank"
             >
-              <span class="justify-center">Entrar em Contato</span>
+              <span className="justify-center">Entrar em Contato</span>
             </a>
           </div>
         </div>
