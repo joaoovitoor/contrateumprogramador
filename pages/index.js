@@ -10,10 +10,11 @@ export default function Home() {
       <NextSeo
         title="Home: Contrate um Programador - para Empresas de Médio Porte"
         description="Soluções Personalizadas de Desenvolvimento de Software para sua Empresa"
-        canonical="https://contrateumprogramador.vercel.app/"
+        canonical="https://contrateumprogramador.com/"
         openGraph={{
-          url: "https://contrateumprogramador.vercel.app/",
+          url: "https://contrateumprogramador.com/",
         }}
+        language="pt-BR"
       />
       <Head>
         <title>Contrate um Programador</title>

@@ -5,7 +5,7 @@ export default function Main() {
         <h1 className="text-4xl xl:text-7xl text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
           Contratação de Desenvolvedor para Empresas de Médio Porte
         </h1>
-        <h2 className="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
+        <h2 className="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-200 text-center">
           Soluções Personalizadas de Desenvolvimento de Software para sua
           <span className="text-white"> empresa</span>
         </h2>
@@ -30,7 +30,7 @@ export default function Main() {
       <div className="container flex flex-col items-center justify-center mx-auto">
         <img
           className="object-center w-3/4 mb-10 shadow-md g327 max-w-xs"
-          alt="Placeholder Image"
+          alt="Contrate um Programador Boneco"
           src="./images/logo_empe.png"
         ></img>
       </div>

@@ -9,7 +9,14 @@ export default function Header() {
             href="/"
             className="flex text-3xl text-white font-medium mb-4 md:mb-0"
           >
-            <img src={"/images/logo2_white.png"} width={"180"} height={"50"} />
+            <img
+              src={"/images/logo2_white.png"}
+              width={"180"}
+              height={"50"}
+              alt={
+                "Logo da empresa Contrate um Programador. Clique para voltar à página inicial"
+              }
+            />
           </a>
         </div>
         <div className={"md:flex flex-grow items-center"}>
