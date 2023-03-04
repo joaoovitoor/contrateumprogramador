@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div className="text-black bg-black">
       <NextSeo
-        title="Home: Contrate um Programador - Desenvolvimento de software personalizado"
-        description="O Contrate um Programador oferece soluções personalizadas de desenvolvimento de software para atender às necessidades exclusivas do seu negócio. Com mais de 15 anos de experiência, trabalho em estreita colaboração com você para desenvolver soluções inovadoras que otimizam processos e aumentam a eficiência. Entre em contato comigo hoje mesmo para saber como posso ajudar você a levar seu projeto para o próximo nível"
+        title="Contrate um Programador - Desenvolvimento de Software"
+        description="Desenvolvimento de software personalizado para otimizar processos e aumentar a eficiência do seu negócio. Contate-nos para soluções inovadoras e exclusivas."
         canonical="https://contrateumprogramador.com/"
         openGraph={{
           url: "https://contrateumprogramador.com/",
