@@ -5,9 +5,12 @@ export default function Main() {
         <h1 className="text-4xl xl:text-7xl text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
           Contratação de Desenvolvedor para Empresas de Médio Porte
         </h1>
-        <h2 className="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-200 text-center">
-          Soluções Personalizadas de Desenvolvimento de Software para sua
-          <span className="text-white"> empresa</span>
+        <h2 className="text-2xl font-4  lh-6 ld-04 pb-11 text-white text-center">
+          Oferecemos soluções personalizadas de desenvolvimento de software para
+          atender às necessidades exclusivas do seu negócio. Com mais de 15 anos
+          de experiência, desenvolvemos soluções inovadoras que otimizam
+          processos e aumentam a eficiência. Entre em contato hoje mesmo para
+          levar seu projeto para o próximo nível.
         </h2>
         <div className="ml-6 text-center">
           <a
@@ -112,13 +115,13 @@ export default function Main() {
       <section className="relative pb-24">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div className="py-24 md:py-36">
-            <h1 className="mb-5 text-xl md:text-4xl lg:text-6xl font-bold text-white">
+            <h3 className="mb-5 text-xl md:text-4xl lg:text-6xl font-bold text-white">
               Entre em Contato pelo WhatsApp
-            </h1>
-            <h1 className="mb-9 text-lg md:text-xl lg:text-2xl font-semibold text-gray-200">
+            </h3>
+            <h3 className="mb-9 text-lg md:text-xl lg:text-2xl font-semibold text-gray-200">
               Basta clicar no link abaixo e será direcionado para falar comigo
               sobre o seu software
-            </h1>
+            </h3>
 
             <a
               className="inline-flex items-center px-14 py-3 mt-2 ml-2 font-medium text-black transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-white"
