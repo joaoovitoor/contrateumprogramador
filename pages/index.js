@@ -15,15 +15,13 @@ export default function Home() {
           url: "https://contrateumprogramador.com/",
         }}
       />
-      <Html lang="pt-br">
-        <Head>
-          <title>Contrate um Programador - Desenvolvimento de Software</title>
-          <link rel="icon" href="/favicon.png" />
-        </Head>
-        <Header />
-        <Main />
-        <Footer />
-      </Html>
+      <Head>
+        <title>Contrate um Programador - Desenvolvimento de Software</title>
+        <link rel="icon" href="/favicon.png" />
+      </Head>
+      <Header />
+      <Main />
+      <Footer />
     </div>
   );
 }
