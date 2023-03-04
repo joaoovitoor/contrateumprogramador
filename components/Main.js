@@ -7,10 +7,9 @@ export default function Main() {
         </h1>
         <h2 className="text-2xl font-4  lh-6 ld-04 pb-11 text-white text-center">
           Oferecemos soluções personalizadas de desenvolvimento de software para
-          atender às necessidades exclusivas do seu negócio. Com mais de 15 anos
-          de experiência, desenvolvemos soluções inovadoras que otimizam
-          processos e aumentam a eficiência. Entre em contato hoje mesmo para
-          levar seu projeto para o próximo nível.
+          atender às necessidades exclusivas da sua empresa. Com mais de 15 anos
+          de experiência. Entre em contato hoje mesmo para levar seu projeto
+          para o próximo nível.
         </h2>
         <div className="ml-6 text-center">
           <a
