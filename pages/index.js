@@ -17,9 +17,7 @@ export default function Home() {
         lang="pt-BR"
       />
       <Head>
-        <title>
-          Contrate um Programador - Desenvolvimento de software personalizado
-        </title>
+        <title>Contrate um Programador - Desenvolvimento de Software</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Header />
