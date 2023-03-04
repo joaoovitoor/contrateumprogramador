@@ -10,7 +10,7 @@ export default function Home() {
       <NextSeo
         title="Contrate um Programador - Desenvolvimento de Software"
         description="Desenvolvimento de software personalizado para otimizar processos e aumentar a eficiência do seu negócio. Contate-nos para soluções inovadoras e exclusivas."
-        canonical="https://www.contrateumprogramador.com/"
+        canonical="https://contrateumprogramador.com/"
         openGraph={{
           url: "https://contrateumprogramador.com/",
         }}
