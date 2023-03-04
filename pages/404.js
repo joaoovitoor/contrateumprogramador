@@ -7,15 +7,15 @@ export default function Contact() {
   return (
     <div className="text-black bg-black">
       <NextSeo
-        title="404: nine4"
+        title="404: Contrate um Programador"
         description="404 page for all our missing pages"
-        canonical="https://nine4-3.vercel.app/404"
+        canonical="https://contrateumprogramador.com/404"
         openGraph={{
-          url: "https://nine4-3.vercel.app/404",
+          url: "https://contrateumprogramador.com/404",
         }}
       />
       <Head>
-        <title>nine4</title>
+        <title>Contrate um Programador - Página não encontrada</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
@@ -28,7 +28,7 @@ export default function Contact() {
           className="w-64 p-1 mx-auto font-bold text-center text-white border border-gray-500 rounded-lg sm:p-4"
           href="/"
         >
-          Return Home
+          Retornar
         </a>
       </div>
       <div className="mt-64"></div>
