@@ -14,15 +14,16 @@ export default function Home() {
         openGraph={{
           url: "https://contrateumprogramador.com/",
         }}
-        lang="pt-BR"
       />
-      <Head>
-        <title>Contrate um Programador - Desenvolvimento de Software</title>
-        <link rel="icon" href="/favicon.png" />
-      </Head>
-      <Header />
-      <Main />
-      <Footer />
+      <Html lang="pt-br">
+        <Head>
+          <title>Contrate um Programador - Desenvolvimento de Software</title>
+          <link rel="icon" href="/favicon.png" />
+        </Head>
+        <Header />
+        <Main />
+        <Footer />
+      </Html>
     </div>
   );
 }
