@@ -95,7 +95,7 @@ export default function Main() {
           Embora as etapas possam variar dependendo da metodologia de
           desenvolvimento utilizada, a maioria dos processos de desenvolvimento
           de software incluem algumas etapas comuns.
-          <div className="pt-2 pb-2 max-w-6xl mx-auto fsac4 md:px-1 px-3">
+          <div className="pt-32 pb-32 max-w-6xl mx-auto fsac4 md:px-1 px-3">
             <div className="ktq4">
               <h3 className="pt-3 font-semibold text-lg text-white">
                 Analise de Requisitos
@@ -163,8 +163,8 @@ export default function Main() {
       </div>
       <section className="relative pb-24">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
-          <div className="py-24 md:py-36">
-            <h3 className="mb-5 text-xl md:text-4xl lg:text-6xl font-bold text-white">
+          <div className="pt-24 md:pt-36">
+            <h3 className="mb-5 text-xl md:text-4xl lg:text-6xl font-bold text-white hover:text-gray-200">
               Entre em Contato pelo WhatsApp
             </h3>
             <h3 className="mb-9 text-lg md:text-xl lg:text-2xl font-semibold text-gray-200">
