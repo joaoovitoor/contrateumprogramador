@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /
 Allow: /$
 Allow: /sitemap.xml$
+Sitemap: https://contrateumprogramador.com/sitemap.xml
+
