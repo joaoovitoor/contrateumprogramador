@@ -95,7 +95,7 @@ export default function Main() {
           Embora as etapas possam variar dependendo da metodologia de
           desenvolvimento utilizada, a maioria dos processos de desenvolvimento
           de software incluem algumas etapas comuns.
-          <div className="pt-32 pb-32 max-w-6xl mx-auto fsac4 md:px-1 px-3">
+          <div className="pt-4 pb-4 fsac4">
             <div className="ktq4">
               <h3 className="pt-3 font-semibold text-lg text-white">
                 Analise de Requisitos
