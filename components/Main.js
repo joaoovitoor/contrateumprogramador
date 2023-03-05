@@ -1,15 +1,15 @@
 export default function Main() {
   return (
     <section className="text-gray-600 body-font">
-      <div className="max-w-5xl pt-52 pb-24 mx-auto">
-        <h1 className="text-4xl xl:text-7xl text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
-          Contratação de Desenvolvedor para Empresas de Médio Porte
+      <div className="max-w-5xl pt-40 pb-24 mx-auto">
+        <h1 className="text-3xl xl:text-7xl text-center font-4 lh-6 ld-04 font-bold text-white hover:text-gray-200 mb-6">
+          Empresa de Desenvolvimento de Software
         </h1>
-        <h2 className="text-2xl font-4  lh-6 ld-04 pb-11 text-white text-center">
-          Oferecemos soluções personalizadas de desenvolvimento de software para
-          atender às necessidades exclusivas da sua empresa. Com mais de 15 anos
-          de experiência. Entre em contato hoje mesmo para levar seu projeto
-          para o próximo nível.
+        <h2 className="text-xl xl:text-2xl font-4 lh-6 ld-04 pb-11 text-white text-center">
+          A nossa empresa de desenvolvimento de software oferece serviços
+          personalizados para atender às suas necessidades únicas. Com mais de
+          15 anos de experiência. Entre em contato conosco hoje para obter uma
+          solução sob medida.
         </h2>
         <div className="ml-6 text-center">
           <a
@@ -37,7 +37,7 @@ export default function Main() {
         ></img>
       </div>
       <div className="container flex flex-col items-center justify-center mx-auto">
-        <h2 className="pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-gray-200 lg:text-7xl md:text-6xl">
+        <h2 className="pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-white hover:text-gray-200 lg:text-7xl md:text-6xl">
           Soluções personalizadas
         </h2>
         <br></br>
@@ -60,7 +60,7 @@ export default function Main() {
           <br />
           Com anos de experiência na indústria, nossa equipe é especializada em
           uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, PHP,
-          Python e muito mais.
+          React, Node, CI/CD e muito mais.
           <br />
           <br />
           Nós trabalhamos em estreita colaboração com nossos clientes para
@@ -84,32 +84,82 @@ export default function Main() {
           empresa a crescer e prosperar.
         </p>
       </div>
-      <div className="pt-32 pb-32 max-w-6xl mx-auto fsac4 md:px-1 px-3">
-        <div className="ktq4">
-          <h3 className="pt-3 font-semibold text-lg text-white">
-            Analise do Problema
-          </h3>
-          <p className="pt-2 value-text text-md text-gray-200 fkrr1">
-            Conversamos com você e entendemos o que deseja, o primeiro passo é
-            entender o que você possui atualmente e o que precisa ser mudado,
-            através desta analise podemos oferecer a proposta para uma solução
-            personalizada. Além da proposta para criação do software, também
-            temos um plano que engloba um suporte mensal e melhoria continua da
-            ferramenta
-          </p>
-        </div>
-        <div className="ktq4">
-          <h3 className="pt-3 font-semibold text-lg text-white">
-            Desenvolvimento da Solução
-          </h3>
-          <p className="pt-2 value-text text-md text-gray-200 fkrr1">
-            A solução é feita sob. medida e dentro do prazo determinado
-            anteriormente, após a conclusão do projeto oferecemos um contrato de
-            suporte e melhoria continuada, no qual continuamos com uma relação e
-            compromisso mensal em desenvolver novas melhorias e implantar
-            melhorias no projeto desenvolvido.
-          </p>
-        </div>
+      <div className="container flex flex-col items-center justify-center mx-auto">
+        <h2 className="pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-white hover:text-gray-200 lg:text-7xl md:text-6xl">
+          Processo de Desenvolvimento
+        </h2>
+        <br></br>
+        <p className="mx-auto text-xl text-justify text-gray-300 font-normal leading-relaxed fs521 w-4/5 md:w-4/5 lg:w-2/3">
+          O processo de desenvolvimento de software é complexo e envolve várias
+          etapas para garantir a qualidade e a eficiência do produto final.
+          Embora as etapas possam variar dependendo da metodologia de
+          desenvolvimento utilizada, a maioria dos processos de desenvolvimento
+          de software incluem algumas etapas comuns.
+          <div className="pt-4 pb-4 max-w-6xl mx-auto fsac4 md:px-1 px-3">
+            <div className="ktq4">
+              <h3 className="pt-3 font-semibold text-lg text-white">
+                Analise de Requisitos
+              </h3>
+              <p className="pt-2 value-text text-md text-gray-200 fkrr1">
+                A primeira etapa é a análise de requisitos, na qual a equipe de
+                desenvolvimento se reúne com o cliente para entender quais são
+                suas necessidades e objetivos para o software. A partir disso, é
+                possível definir os requisitos do sistema e elaborar uma
+                documentação completa.
+              </p>
+            </div>
+            <div className="ktq4">
+              <h3 className="pt-3 font-semibold text-lg text-white">
+                Design da Solução
+              </h3>
+              <p className="pt-2 value-text text-md text-gray-200 fkrr1">
+                Em seguida, vem a etapa de design, na qual a equipe de
+                desenvolvimento cria a arquitetura do sistema e define a
+                estrutura do software. Nessa etapa, também é definida a
+                interface do usuário, incluindo a aparência e a funcionalidade
+                do software.
+              </p>
+            </div>
+            <div className="ktq4">
+              <h3 className="pt-3 font-semibold text-lg text-white">
+                Implementação
+              </h3>
+              <p className="pt-2 value-text text-md text-gray-200 fkrr1">
+                A terceira etapa é a implementação, na qual o software é
+                codificado de acordo com as especificações definidas nas etapas
+                anteriores. Essa etapa é muito importante, pois o código deve
+                ser limpo, organizado e fácil de ser mantido e atualizado.
+              </p>
+            </div>
+            <div className="ktq4">
+              <h3 className="pt-3 font-semibold text-lg text-white">Testes</h3>
+              <p className="pt-2 value-text text-md text-gray-200 fkrr1">
+                Após a implementação, vem a etapa de testes, na qual o software
+                é testado em vários cenários para garantir que ele está
+                funcionando corretamente e que atende aos requisitos definidos
+                na análise de requisitos. Essa etapa é fundamental para garantir
+                a qualidade do software.
+              </p>
+            </div>
+            <div className="ktq4">
+              <h3 className="pt-3 font-semibold text-lg text-white">
+                Manutenção e Evolução
+              </h3>
+              <p className="pt-2 value-text text-md text-gray-200 fkrr1">
+                Por fim, vem a etapa de manutenção e evolução do software, na
+                qual a equipe de desenvolvimento realiza correções de erros e
+                atualizações no software, de acordo com as necessidades do
+                cliente e do mercado.
+              </p>
+            </div>
+          </div>
+          É importante ressaltar que o processo de desenvolvimento de software é
+          iterativo, ou seja, as etapas não são lineares e podem se repetir
+          várias vezes até que o produto final esteja completo e atenda às
+          necessidades do cliente. Além disso, a equipe de desenvolvimento deve
+          estar sempre atenta a novas tecnologias e metodologias para garantir
+          que o software desenvolvido seja atualizado e eficiente.
+        </p>
       </div>
       <section className="relative pb-24">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
