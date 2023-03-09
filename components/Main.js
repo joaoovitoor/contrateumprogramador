@@ -15,7 +15,7 @@ export default function Main() {
           <div className="ml-6 text-center">
             <a
               className="flex justify-center items-center py-3 font-semibold text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-5 mr-5 bg-gradient-to-r from-green-500 to-green-400 px-7 text-md mt-3 hover:text-black hover:bg-white focus:shadow-outline"
-              href="https://wa.me/5511980668176"
+              href="https://wa.me/5511979667131"
               target="_blank"
             >
               Contato por WhatsApp
@@ -170,7 +170,7 @@ export default function Main() {
 
               <a
                 className="inline-flex items-center px-14 py-3 mt-2 ml-2 font-medium text-black transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-white"
-                href="https://wa.me/5511980668176"
+                href="https://wa.me/5511979667131"
                 target="_blank"
               >
                 <span className="justify-center">Entrar em Contato</span>
