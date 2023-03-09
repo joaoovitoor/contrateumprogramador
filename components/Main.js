@@ -14,14 +14,6 @@ export default function Main() {
           </h2>
           <div className="ml-6 text-center">
             <a
-              className="flex justify-center items-center py-3 font-semibold text-center text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-5 mr-5 bg-gradient-to-r from-blue-500 to-blue-400 px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
-              href="mailto:contrateumprogramador.com"
-              target="_blank"
-            >
-              Contato por E-mail
-            </a>
-
-            <a
               className="flex justify-center items-center py-3 font-semibold text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-5 mr-5 bg-gradient-to-r from-green-500 to-green-400 px-7 text-md mt-3 hover:text-black hover:bg-white focus:shadow-outline"
               href="https://wa.me/5511980668176"
               target="_blank"
