@@ -12,21 +12,7 @@ function WhatsappPage() {
     }
   }, [number]);
 
-  return (
-    <>
-      <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=AW-11109257615"
-      >
-        {" "}
-      </script>
-      <script>
-        window.dataLayer = window.dataLayer | | [ ] ; function gtag ( ){" "}
-        {dataLayer.push(arguments)}
-        gtag ('js' , new Date ( ) ) ; gtag ('config', 'AW-11109257615') ;
-      </script>
-    </>
-  );
+  return null;
 }
 
 export default WhatsappPage;
