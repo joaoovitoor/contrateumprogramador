@@ -3,6 +3,7 @@ import { useRouter } from "next/router";
 
 function WhatsappPage() {
   const router = useRouter();
+
   const { number } = router.query;
 
   useEffect(() => {
