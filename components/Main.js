@@ -22,7 +22,7 @@ export default function Main() {
             </a>
           </div>
         </div>
-        <div className="container flex flex-col items-center justify-center mx-auto">
+        <div className="container hidden sm:flex flex-col items-center justify-center mx-auto">
           <img
             className="object-center w-3/4 mb-10 shadow-md g327 max-w-xs"
             alt="Contrate um Programador Boneco"
@@ -30,7 +30,7 @@ export default function Main() {
           ></img>
         </div>
         <div className="container flex flex-col items-center justify-center mx-auto">
-          <h2 className="pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-white hover:text-gray-200 lg:text-7xl md:text-6xl">
+          <h2 className="sm:pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-white hover:text-gray-200 lg:text-7xl md:text-6xl">
             Soluções personalizadas
           </h2>
           <br></br>
