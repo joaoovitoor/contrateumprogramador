@@ -3,15 +3,15 @@ export default function Main() {
     <>
       <section className="text-gray-600 body-font">
         <div className="max-w-5xl pt-40 pb-24 mx-auto">
-          <h1 className="text-3xl xl:text-7xl text-center font-4 lh-6 ld-04 font-bold text-white hover:text-gray-200 mb-6">
-            Empresa de Desenvolvimento de Software
+          <h1 className="text-xl xl:text-7xl text-center font-4 lh-6 ld-04 font-bold text-white hover:text-gray-200 mb-6">
+            Contrate um Programador
           </h1>
-          <h2 className="text-xl xl:text-2xl font-4 lh-6 ld-04 pb-11 text-white text-center">
-            A nossa empresa de desenvolvimento de software oferece serviços
-            personalizados para atender às suas necessidades únicas. Com mais de
-            15 anos de experiência. Entre em contato conosco hoje para obter uma
-            solução sob medida.
+          <h2 className="text-2xl xl:text-4xl font-4 lh-6 ld-04 pb-11 text-white text-center">
+            Programador de Software Full-Stack Experiente | PHP, React e Node.js | Linux, Docker, CI/CD
           </h2>
+          <h3 className="text-xl xl:text-2xl font- lh-6 ld-04 pb-11 text-white text-center">
+            Programador experiente e pronto para te ajudar criar o seu próximo sistema, trabalho com sistemas web em linguagens web modernas e também refatoração de sistemas legados. entre em contato e solicite um orçamento sem compromisso
+          </h3>
           <div className="ml-6 text-center">
             <a
               className="flex justify-center items-center py-3 font-semibold text-white transition duration-500 ease-in-out bg-transparent rounded-lg ml-5 mr-5 bg-gradient-to-r from-green-500 to-green-400 px-7 text-md mt-3 hover:text-black hover:bg-white focus:shadow-outline"
