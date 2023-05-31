@@ -4,13 +4,13 @@ export default function Main() {
       <section className="text-gray-600 body-font">
         <div className="max-w-5xl pt-40 pb-24 mx-auto">
           <h1 className="text-xl xl:text-7xl text-center font-4 lh-6 ld-04 font-bold text-white hover:text-gray-200 mb-6">
-            Contrate um Programador
+            Contrate um Programador Especializado em São Paulo
           </h1>
           <h2 className="text-2xl xl:text-4xl font-4 lh-6 ld-04 pb-11 text-white text-center">
-            Programador de Software Full-Stack Experiente | PHP, React e Node.js | Linux, Docker, CI/CD
+            Desenvolvimento Web Personalizado com Experiência em PHP, React e Node.js
           </h2>
           <h3 className="text-xl xl:text-2xl font- lh-6 ld-04 pb-11 text-white text-center">
-            Programador experiente e pronto para te ajudar criar o seu próximo sistema, trabalho com sistemas web em linguagens web modernas e também refatoração de sistemas legados. entre em contato e solicite um orçamento sem compromisso
+            Ofereço serviços de programação experiente e personalizado para criação de sistemas web modernos, incluindo refatoração de sistemas legados. Entre em contato agora mesmo e solicite um orçamento sem compromisso.
           </h3>
           <div className="ml-6 text-center">
             <a
