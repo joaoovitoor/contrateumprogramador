@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /*/
 Allow: /$
 Sitemap: https://contrateumprogramador.com/sitemap.xml
-
