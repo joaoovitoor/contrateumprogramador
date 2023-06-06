@@ -17,7 +17,7 @@ export default function Home() {
           }}
         />
         <Head>
-          <title>Contrate um Programador - Desenvolvimento de Software</title>
+          <title>Contrate um Programador - Desenvolvimento Web em São Paulo</title>
           <link rel="icon" href="/favicon.png" />
         </Head>
         <Header />
