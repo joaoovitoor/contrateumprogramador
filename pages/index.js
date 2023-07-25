@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <div className="text-black bg-black">
         <NextSeo
-          title="Contrate um Programador - Desenvolvimento Web em São Paulo"
+          title="Contrate um Programador - Desenvolvimento Web em SP"
           description="Contrate um Programador Especializado em São Paulo. Desenvolvimento Web, Integração de APIs e mais. Solicite um Orçamento pelo WhatsApp."
           canonical="https://contrateumprogramador.com/"
           openGraph={{
@@ -17,7 +17,7 @@ export default function Home() {
           }}
         />
         <Head>
-          <title>Contrate um Programador - Desenvolvimento Web em São Paulo</title>
+          <title>Contrate um Programador - Desenvolvimento Web em SP</title>
           <link rel="icon" href="/favicon.png" />
         </Head>
         <Header />
